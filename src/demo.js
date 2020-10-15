@@ -31,7 +31,7 @@ export default function CustomizedTimeline() {
       <TimelineItem>
         <TimelineOppositeContent>
           <Typography variant="body2" color="textSecondary">
-            9:30 am
+            2020
           </Typography>
         </TimelineOppositeContent>
         <TimelineSeparator>
